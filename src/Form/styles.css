@@ -1,0 +1,22 @@
+.paper{
+    padding:2px;
+   
+}
+form{
+    margin:10px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+  }
+
+.fileInput{
+    width:97%;
+    margin:10px 0;
+}
+.buttonSubmit{
+    margin-bottom: 10px; 
+}
+
+
+
+
